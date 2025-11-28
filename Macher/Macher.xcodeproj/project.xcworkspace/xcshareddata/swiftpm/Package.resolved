@@ -1,0 +1,24 @@
+{
+  "originHash" : "10706d6bdbf2d4fcaa65ca03db11c15ff189e986f76d2b73a87166fd97fb6dde",
+  "pins" : [
+    {
+      "identity" : "capstone",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MxIris-Reverse-Engineering/capstone",
+      "state" : {
+        "branch" : "v5",
+        "revision" : "cbdd988d5c854d2e207452a2f33cf477afc35efc"
+      }
+    },
+    {
+      "identity" : "swift-capstone",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MxIris-Reverse-Engineering/swift-capstone.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "207de96a2a4d6792a6a6751bb47e9bc750abbcf8"
+      }
+    }
+  ],
+  "version" : 3
+}
